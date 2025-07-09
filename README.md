@@ -9,7 +9,7 @@
 
 ## Key Features
 - Data ingestion from 4 data sources.
-- Data cleaning, conversion ffrom pounds to euro, conersion of date and time. 
+- Data cleaning, conversion from pounds to euro, conersion of date and time. 
 - Merging of the 4 datasets together.
 - Dynamic visual comparison of forecast accuracy used by the Assetless units.
 - Monthly insights into bid volume and pricing trends.
